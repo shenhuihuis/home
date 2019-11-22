@@ -11,10 +11,13 @@
     "uat": "vue-cli-service serve --mode=test"
   },
   "dependencies": {
+    "echarts": "^4.5.0",
     "lib-flexible": "^0.3.2",
     "pdfjs-dist": "^2.0.943",
+    "v-charts": "^1.19.0",
     "vant": "^1.6.12",
     "vue": "^2.6.10",
+    "vue-amap": "^0.5.10",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
